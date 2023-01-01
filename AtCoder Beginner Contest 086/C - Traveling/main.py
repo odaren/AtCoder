@@ -1,3 +1,5 @@
+# パリティ
+
 def check():
   n = int(input())
   ls = [list(map(int, input().split())) for _ in range(n)]
